@@ -18,8 +18,8 @@
 ### ✏️ Sobre mí
 
 - 🔬 Soy **Data Scientist** en formación, enfocada en construir modelos predictivos y llevarlos a producción.
+- - 📚 Actualmente curso la carrera de **Analista Universitario en Ciencia de Datos** en la Universidad Nacional de Luján (UNLu) y cursando el bootcamp de Henry de Data Science.
 - 🎓 En 2024 finalicé mis estudios como **Técnica Superior en Ciencia de Datos e Inteligencia Artificial** en ISTEA.
-- 📚 Actualmente curso la carrera de **Analista Universitario en Ciencia de Datos** en la Universidad Nacional de Luján (UNLu).
 - 🧠 Me interesa todo el ciclo de un proyecto de ML: desde el EDA y la limpieza de datos hasta el modelado, la evaluación y el despliegue (MLOps).
 - 🧐 Soy curiosa por naturaleza: me motiva descubrir herramientas y tendencias nuevas en el mundo de la IA y los datos.
 - 🎯 Mi objetivo es seguir creciendo como Data Scientist y aportar valor real a través de modelos y análisis rigurosos.
